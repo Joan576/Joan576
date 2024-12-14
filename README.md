@@ -1,19 +1,17 @@
 # ¡Hola! 👋 Soy Sebastian Meza
 
-Soy estudiante de **Ingeniería de Sistemas** en mi octavo semestre, apasionado por la tecnología y el desarrollo de software. Aquí encontrarás proyectos y trabajos relacionados con mis conocimientos en **Python**, desarrollo web y bases de datos.
+Soy estudiante de **Ingeniería de Sistemas** en mi noveno semestre, apasionado por la tecnología y el desarrollo de software. Aquí encontrarás proyectos y trabajos relacionados con mis conocimientos en **Python**, desarrollo web y bases de datos.
 
 ## 🚀 Habilidades
 
 - **Lenguajes de Programación:**
   - Python 🐍
-  - HTML5 🌐
-  - CSS3 🎨
   - JavaScript 💻
 
 - **Desarrollo Web:**
-  - HTML5
-  - CSS3
-  - JavaScript
+  - Vue.JS 🌐
+  - Node.JS 🌐
+  
 
 - **Bases de Datos:**
   - Relacionales:
@@ -22,6 +20,7 @@ Soy estudiante de **Ingeniería de Sistemas** en mi octavo semestre, apasionado 
     - SQLite 🗄️
   - No Relacionales:
     - MongoDB 🌿
+    - Firebase 🌿
 
 ## 📂 Proyectos Destacados
 
@@ -46,6 +45,7 @@ Actualmente, estoy explorando y aprendiendo sobre las siguientes tecnologías y 
 
 - **Desarrollo Móvil:**
   - React Native 📱
+  - Ionic 📱
 
 - **Bases de Datos:**
   - PostgreSQL 🗄️
