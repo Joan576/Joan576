@@ -25,9 +25,16 @@ Soy estudiante de **Ingeniería de Sistemas** en mi octavo semestre, apasionado 
 
 ## 📂 Proyectos Destacados
 
-Aquí puedes encontrar algunos de mis proyectos más recientes:
 
-- **[MVC](https://github.com/Joan576/MVC):** Modelo Vista Controlador.
+-  🌐 [Plataforma de Recetas de Cocina](https://github.com/Joan576/Recetas-De-Comida-Front)
+Una página web donde los usuarios pueden explorar recetas deliciosas con un diseño intuitivo y moderno.  
+**Tecnologías utilizadas**: Vue.js, NodeJS, PostgreSQL y Firebase.
+
+---
+
+- 📱 [Aplicación móvil de E-commerce](https://github.com/Galindo1327/NovaMarket)
+Una aplicación móvil que funciona como marketplace para la compra y venta de productos.  
+**Tecnologías utilizadas**: React Native, Ionic y Firebase.
 
 ## 🌟 ¿Qué Estoy Aprendiendo?
 
