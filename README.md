@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Sebastian Meza
 
-Soy estudiante de **Ingeniería de Sistemas** en mi noveno semestre, apasionado por la tecnología y el desarrollo de software. Aquí encontrarás proyectos y trabajos relacionados con mis conocimientos en **Python**, desarrollo web y bases de datos.
+Soy estudiante de **Ingeniería de Sistemas**, apasionado por la tecnología y el desarrollo de software. Aquí encontrarás proyectos y trabajos relacionados con mis conocimientos en **Python**, desarrollo web y bases de datos.
 
 ## 🚀 Habilidades
 
