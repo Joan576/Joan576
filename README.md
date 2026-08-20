@@ -1,5 +1,13 @@
 ![image alt](https://github.com/Joan576/Joan576/blob/ac1f53035427a5ec4ddfd6ca744ee666e9e607f5/readmeimage.png)
+# Hi, I'm Joan Sebastian Meza 👋
 
+### Software & Backend Developer | Systems Engineer
+
+I'm a **Systems Engineer** passionate about software development, backend technologies, databases, automation, and building solutions that solve real-world problems.
+
+I enjoy learning new technologies, understanding how systems work, and turning ideas and requirements into functional and scalable software.
+
+---
 ## About Me
 
 - Systems Engineer from **Universidad Santiago de Cali**
