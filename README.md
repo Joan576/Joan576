@@ -1,96 +1,154 @@
-# ¡Hola! 👋 Soy Sebastian Meza
+# Hi, I'm Joan Sebastian Meza 👋
 
-Soy estudiante de **Ingeniería de Sistemas**, apasionado por la tecnología y el desarrollo de software. Aquí encontrarás proyectos y trabajos relacionados con mis conocimientos en **Python**, desarrollo web y bases de datos.
+### Software & Backend Developer | Systems Engineer
 
-## 🚀 Habilidades
+I'm a **Systems Engineer** passionate about software development, backend technologies, databases, automation, and building solutions that solve real-world problems.
 
-- **Lenguajes de Programación:**
-  - Python 🐍
-  - JavaScript 💻
-
-- **Desarrollo Web:**
-  - Vue.JS 🌐
-  - Node.JS 🌐
-  
-
-- **Bases de Datos:**
-  - Relacionales:
-    - MySQL 🗄️
-    - Oracle 🗄️
-    - SQLite 🗄️
-  - No Relacionales:
-    - MongoDB 🌿
-    - Firebase 🌿
-
-## 📂 Proyectos Destacados
-
-
--  🌐 [Plataforma de Recetas de Cocina](https://github.com/Joan576/Recetas-De-Comida-Front)
-Una página web donde los usuarios pueden explorar recetas deliciosas con un diseño intuitivo y moderno.  
-**Tecnologías utilizadas**: Vue.js, NodeJS, PostgreSQL y Firebase.
+I enjoy learning new technologies, understanding how systems work, and turning ideas and requirements into functional and scalable software.
 
 ---
 
-- 📱 [Aplicación móvil de E-commerce](https://github.com/Galindo1327/NovaMarket)
-Una aplicación móvil que funciona como marketplace para la compra y venta de productos.  
-**Tecnologías utilizadas**: React Native, Ionic y Firebase.
+## 🚀 About Me
 
-## 🌟 ¿Qué Estoy Aprendiendo?
-
-Actualmente, estoy explorando y aprendiendo sobre las siguientes tecnologías y conceptos:
-
-- **Frameworks de Python:**
-  - Django 🐍
-  - Flask 🐍
-
-- **Desarrollo Móvil:**
-  - React Native 📱
-  - Ionic 📱
-
-- **Bases de Datos:**
-  - PostgreSQL 🗄️
-
-
-## 📫 Contacto
-
-- **Email:** mezasantanilla@gmail.com
-- **LinkedIn:** www.linkedin.com/in/joan-sebastian-meza-santanilla-851922268
-
-## 🛠️ Herramientas y Tecnologías
-
-### Lenguajes de Programación
-
-<p>
-  <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" style="width: 96px; height: 96px; display: inline-block; margin-right: 10px;"/>
-  <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML5" style="width: 96px; height: 96px; display: inline-block; margin-right: 10px;"/>
-  <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3" style="width: 96px; height: 96px; display: inline-block; margin-right: 10px;"/>
-  <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" style="width: 96px; height: 96px; display: inline-block; margin-right: 10px;"/>
-</p>
-
-### Frameworks y Librerías
-
-<p>
-  <img src="https://img.icons8.com/color/96/000000/django.png" alt="Django" style="width: 96px; height: 96px; display: inline-block; margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" style="width: 96px; height: 96px; display: inline-block; margin-right: 10px;"/>
-  <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="React Native" style="width: 96px; height: 96px; display: inline-block; margin-right: 10px;"/>
-</p>
-
-### Bases de Datos
-
-<p>
-  <img src="https://img.icons8.com/color/96/000000/mysql.png" alt="MySQL" style="width: 96px; height: 96px; display: inline-block; margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" style="width: 96px; height: 96px; display: inline-block; margin-right: 10px;"/>     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" style="width: 96px; height: 96px; display: inline-block; margin-right: 10px;"/>
-  <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB" style="width: 96px; height: 96px; display: inline-block; margin-right: 10px;"/>
-  <img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="PostgreSQL" style="width: 96px; height: 96px; display: inline-block; margin-right: 10px;"/>
-</p>
-
-
-          
-
-¡Gracias por visitar mi perfil de GitHub! 🚀
+- Systems Engineer from **Universidad Santiago de Cali**
+- Focused on **Software Development & Backend Engineering**
+- Experienced with **Python, FastAPI, JavaScript and Node.js**
+- Experience working with **PostgreSQL, MySQL, MongoDB, Firebase and InfluxDB**
+- Experience developing web applications with **Vue.js and React**
+- Experience designing and consuming **REST APIs**
+- Experience automating business processes using **Make, Microsoft Outlook and Google Drive**
+- Developed a robotic gas-monitoring system using **ROS2 and Gazebo** as my degree project
+- Currently strengthening my knowledge in **software architecture, testing, Docker and cloud technologies**
+- Currently completing **B2 English level at Instituto Colombo Americano**
 
 ---
 
-*Este README.md es un trabajo en progreso y se actualizará con nuevos proyectos y habilidades a medida que continúe mi desarrollo profesional.*
+## 🛠️ Tech Stack
 
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+### Frontend
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+### Robotics & Simulation
+
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-FF8C00?style=flat-square&logo=gazebo&logoColor=white)
+
+---
+
+## ⭐ Featured Projects
+
+### 🤖 Gas Monitoring System
+
+A robotic gas-monitoring platform developed as my degree project.
+
+The system simulates an autonomous mobile robot capable of detecting and processing gas concentration data and provides a web interface for monitoring and visualization.
+
+**Technologies:**
+
+`Python` `ROS2` `Gazebo` `FastAPI` `Vue.js` `InfluxDB`
+
+---
+
+### 📱 NovaMarket
+
+A mobile marketplace application designed to allow users to publish and search for products.
+
+**Technologies:**
+
+`React` `Ionic` `Firebase` `Tailwind CSS`
+
+---
+
+### 🍳 Recipe Management Platform
+
+A web application focused on managing and organizing recipes, ingredients, instructions and multimedia content.
+
+**Technologies:**
+
+`Vue.js` `Node.js` `Firebase` `PostgreSQL`
+
+---
+
+## 📈 Currently Working On
+
+### 💰 Financial Management System
+
+I'm currently developing a full-stack financial management platform focused on applying professional software development practices.
+
+The project will include:
+
+- REST API architecture
+- User authentication and authorization
+- Financial transactions
+- Categories and budgets
+- Data visualization
+- PostgreSQL database
+- Automated testing
+- Docker
+- CI/CD
+- Cloud deployment
+
+**Planned stack:**
+
+`Vue.js` `FastAPI` `PostgreSQL` `Docker` `GitHub Actions` `AWS`
+
+---
+
+## 🌱 What I'm Currently Learning
+
+- Backend architecture
+- API design
+- Automated testing
+- Docker & containerization
+- CI/CD
+- Cloud deployment
+- Software engineering best practices
+
+---
+
+## 📫 Let's Connect
+
+I'm currently looking for opportunities where I can contribute as a **Systems Engineer, Backend Developer or Software Developer** while continuing to grow professionally.
+
+📧 **Email:** mezasantanilla@gmail.com
+
+💼 **LinkedIn:** [Joan Sebastian Meza](www.linkedin.com/in/joansebastianmeza)
+
+💻 **GitHub:** [@Joan576](https://github.com/Joan576)
+
+---
+
+> *"I believe good software is not only about writing code, but about understanding problems and building solutions that create real value."*
