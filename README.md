@@ -10,16 +10,16 @@ I enjoy learning new technologies, understanding how systems work, and turning i
 ---
 ## About Me
 
-- Systems Engineer from **Universidad Santiago de Cali**
-- Focused on **Software Development & Backend Engineering**
-- Experienced with **Python, FastAPI, JavaScript and Node.js**
-- Experience working with **PostgreSQL, MySQL, MongoDB, Firebase and InfluxDB**
-- Experience developing web applications with **Vue.js and React**
-- Experience designing and consuming **REST APIs**
-- Experience automating business processes using **Make, Microsoft Outlook and Google Drive**
-- Developed a robotic gas-monitoring system using **ROS2 and Gazebo** as my degree project
-- Currently strengthening my knowledge in **software architecture, testing, Docker and cloud technologies**
-- Currently completing **B2 English level at Instituto Colombo Americano**
+- 🎓 Systems Engineer from **Universidad Santiago de Cali**
+- 💻 Focused on **Software Development & Backend Engineering**
+- 🐍 Experienced with **Python, FastAPI, JavaScript and Node.js**
+- 🗄️ Experience working with **PostgreSQL, MySQL, MongoDB, Firebase and InfluxDB**
+- 🌐 Experience developing web applications with **Vue.js and React**
+- 🔌 Experience designing and consuming **REST APIs**
+- ⚙️ Experience automating business processes using **Make, Microsoft Outlook and Google Drive**
+- 🤖 Developed a robotic gas-monitoring system using **ROS2 and Gazebo** as my degree project
+- 📚 Currently strengthening my knowledge in **software architecture, testing, Docker and cloud technologies**
+- 🇺🇸 Currently completing **B2 English level at Instituto Colombo Americano**
 
 ---
 
@@ -70,7 +70,7 @@ I enjoy learning new technologies, understanding how systems work, and turning i
 
 ## ⭐ Featured Projects
 
-### Gas Monitoring System
+### 🤖 Gas Monitoring System
 
 A robotic gas-monitoring platform developed as my degree project.
 
@@ -82,7 +82,7 @@ The system simulates an autonomous mobile robot capable of detecting and process
 
 ---
 
-### NovaMarket
+### 📱 NovaMarket
 
 A mobile marketplace application designed to allow users to publish and search for products.
 
@@ -92,7 +92,7 @@ A mobile marketplace application designed to allow users to publish and search f
 
 ---
 
-### Recipe Management Platform
+### 🍳 Recipe Management Platform
 
 A web application focused on managing and organizing recipes, ingredients, instructions and multimedia content.
 
@@ -104,7 +104,7 @@ A web application focused on managing and organizing recipes, ingredients, instr
 
 ## 📈 Currently Working On
 
-### Financial Management System
+### 💰 Financial Management System
 
 I'm currently developing a full-stack financial management platform focused on applying professional software development practices.
 
@@ -127,7 +127,7 @@ The project will include:
 
 ---
 
-## What I'm Currently Learning
+## 🌱 What I'm Currently Learning
 
 - Backend architecture
 - API design
