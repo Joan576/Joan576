@@ -1,14 +1,6 @@
-# Hi, I'm Joan Sebastian Meza 👋
+![image alt](https://github.com/Joan576/Joan576/blob/ac1f53035427a5ec4ddfd6ca744ee666e9e607f5/readmeimage.png)
 
-### Software & Backend Developer | Systems Engineer
-
-I'm a **Systems Engineer** passionate about software development, backend technologies, databases, automation, and building solutions that solve real-world problems.
-
-I enjoy learning new technologies, understanding how systems work, and turning ideas and requirements into functional and scalable software.
-
----
-
-## 🚀 About Me
+## About Me
 
 - Systems Engineer from **Universidad Santiago de Cali**
 - Focused on **Software Development & Backend Engineering**
@@ -23,7 +15,7 @@ I enjoy learning new technologies, understanding how systems work, and turning i
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -70,7 +62,7 @@ I enjoy learning new technologies, understanding how systems work, and turning i
 
 ## ⭐ Featured Projects
 
-### 🤖 Gas Monitoring System
+### Gas Monitoring System
 
 A robotic gas-monitoring platform developed as my degree project.
 
@@ -82,7 +74,7 @@ The system simulates an autonomous mobile robot capable of detecting and process
 
 ---
 
-### 📱 NovaMarket
+### NovaMarket
 
 A mobile marketplace application designed to allow users to publish and search for products.
 
@@ -92,7 +84,7 @@ A mobile marketplace application designed to allow users to publish and search f
 
 ---
 
-### 🍳 Recipe Management Platform
+### Recipe Management Platform
 
 A web application focused on managing and organizing recipes, ingredients, instructions and multimedia content.
 
@@ -104,7 +96,7 @@ A web application focused on managing and organizing recipes, ingredients, instr
 
 ## 📈 Currently Working On
 
-### 💰 Financial Management System
+### Financial Management System
 
 I'm currently developing a full-stack financial management platform focused on applying professional software development practices.
 
@@ -127,7 +119,7 @@ The project will include:
 
 ---
 
-## 🌱 What I'm Currently Learning
+## What I'm Currently Learning
 
 - Backend architecture
 - API design
